@@ -6,6 +6,7 @@ def get_response(question):
         "How are you?": "I don't have feelings, but I'm here to help!",
         "Tell me a joke.": "Why don't scientists trust atoms? Because they make up everything!",
         "Who is the president of the United States?": "As of my last knowledge update in January 2022, it was Joe Biden.",
+        "What is a text link?": "A text link is a customer facing link that appears on a publishers site."
         # Add more questions and answers as needed
     }
 
